@@ -1,4 +1,4 @@
-# Claude Expense Tracker
+# Claude Expense Reporting
 
 Hello! Here are the files that you will need to get stared as shown in the YouTube tutorial.
 Copy all the files here and follow these steps
